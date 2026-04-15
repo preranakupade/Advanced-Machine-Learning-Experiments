@@ -3,7 +3,6 @@
 This repository contains a collection of **Machine Learning** and **Deep Learning** experiments implemented using **Python**.
 It is designed for academic practicals, hands-on learning, and showcasing AI/ML skills through real implementations.
 
----
 
 ## Experiment List
 
@@ -53,7 +52,6 @@ Generate summary of documents using Recurrent Neural Network (RNN).
 
 Classify sentiment of text data using RNN model.
 
----
 
 ## 🛠️ Technologies Used
 
